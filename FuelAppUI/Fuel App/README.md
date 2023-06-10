@@ -4,3 +4,7 @@ A simple application that takes a user's current city and destination city, calc
 2. How much the tank of gas will cost you in your destination and current cities
 
 This is based on a hybrid mid-size sedan, since that is what the author drives. :)
+
+---
+## Attribution
+Favicon is from [Twemoji](https://twemoji.twitter.com/)
